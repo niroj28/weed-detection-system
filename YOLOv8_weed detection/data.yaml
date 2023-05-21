@@ -1,0 +1,7 @@
+train: D:/YOLOv8 train/train_data/train/images
+val: D:/YOLOv8 train/train_data/validate/images
+
+# Classes
+names:
+  0: Crop
+  1: Weed
